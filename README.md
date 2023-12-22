@@ -1,16 +1,26 @@
-### Hi there 👋
+# Привет, я [Ваше Имя] 👋
 
-<!--
-**hiroyar/hiroyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
+- 💻 Я работаю над [опишите проекты или технологии, над которыми вы работаете].
+- 🌱 В настоящее время изучаю golang.
+- 🎯 Мои цели на [текущий год] - [опишите ваши цели].
+- ⚡ Интересный факт: начинал как frontend, но сейчас полностью специализируюсь на backend.
 
-Here are some ideas to get you started:
+## Мои навыки
+- Языки программирования: `Php`, `Go`.
+- Фреймворки и технологии: `Laravel`, `Yii2`.
+- Инструменты и платформы: `Postgres`, `Docker`, `Ansible`, `Kafka`, `Redis`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Статистика
+![Ваша GitHub Статистика](https://github-readme-stats.vercel.app/api?username=hiroyar&show_icons=true&theme=radical)
+
+## Связаться со мной
+- 📫 Как связаться со мной: [vetryak.yaroslav@gmail.com]
+
+<!-- Иконки -->
+[1.2]: http://i.imgur.com/wWzX9uB.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Ссылки на ваш профиль -->
+[1]: https://github.com/ваш-username
+[3]: https://www.linkedin.com/in/ваш-username/
