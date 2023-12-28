@@ -14,7 +14,8 @@
 ![Ваша GitHub Статистика](https://github-readme-stats.vercel.app/api?username=hiroyar&show_icons=true&theme=radical)
 
 ## Связаться со мной
-- 📫 Как связаться со мной: [vetryak.yaroslav@gmail.com]
+- vetryak.yaroslav@gmail.com
+- https://t.me/hiroyar
 
 <!-- Иконки -->
 [1.2]: http://i.imgur.com/wWzX9uB.png (github icon without padding)
